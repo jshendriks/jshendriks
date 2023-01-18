@@ -1,6 +1,6 @@
 Hii, I'm a student at @codam-coding-college / @42School and at @UtrechtUniversity. I'm currently working on the Codam project push-swap.
 
-#### Codam curriculum
+### Codam curriculum
 [![jhendrik's 42 stats](https://badge42.vercel.app/api/v2/cld1oq87e00160fmglsuvsgug/stats?cursusId=21&coalitionId=59)](https://github.com/JaeSeoKim/badge42)
 
 ### Libft
