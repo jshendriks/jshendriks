@@ -4,7 +4,7 @@ Hii, I'm a student at @codam-coding-college / @42School and at @UtrechtUniversit
 [![jhendrik's 42 stats](https://badge42.vercel.app/api/v2/cld1oq87e00160fmglsuvsgug/stats?cursusId=21&coalitionId=59)](https://github.com/JaeSeoKim/badge42)
 
 ### Libft
-[![jhendrik's 42 stats](https://badge42.vercel.app/api/v2/cld1oq87e00160fmglsuvsgug/stats?cursusId=21&coalitionId=59)](https://github.com/JaeSeoKim/badge42)
+[![jhendrik's 42 Libft Score](https://badge42.vercel.app/api/v2/cld1oq87e00160fmglsuvsgug/project/2819990)](https://github.com/JaeSeoKim/badge42)
 
 ### Printf
 [![jhendrik's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cld1oq87e00160fmglsuvsgug/project/2884239)](https://github.com/JaeSeoKim/badge42)
